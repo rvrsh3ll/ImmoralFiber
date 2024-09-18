@@ -1,5 +1,7 @@
 ## BlackHat Asia 2024 Briefings
 
+https://www.youtube.com/watch?v=LdrqX5Nhe94&ab_channel=BlackHat
+
 https://www.blackhat.com/asia-24/briefings/schedule/index.html#immoral-fiber-unlocking--discovering-new-offensive-capabilities-of-fibers-37947
 
 #### Disclaimer
